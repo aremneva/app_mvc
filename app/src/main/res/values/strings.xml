@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">mvc1</string>
+    <string name="t">True</string>
+    <string name="n">Next</string>
+    <string name="f">False</string>
+    <string name="resultT">Correct</string>
+    <string name="resultF">Incorrect</string>
+    <string name="quest1">Москва - столица России</string>
+    <string name="quest2"> 5 умножить на 5 = 35</string>
+    <string name="quest3"> Вода может быть в трех разных состояниях </string>
+    <string name="quest4">3x7=</string>
+    <string name="quest5"> 689-11=</string>
+    <string name="quest6"> Год основания Санкт-Петербурга </string>
+    <string name="answer1">true</string>
+    <string name="answer2">false</string>
+    <string name="answer3">true</string>
+    <string name="answer4">21</string>
+    <string name="answer5">678</string>
+    <string name="answer6">1703</string>
+    <string name="q">queston</string>
+
+</resources>
